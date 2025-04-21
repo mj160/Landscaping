@@ -4,10 +4,10 @@
     font-style: normal;
   }
   
-i{color: black;
-    font-size: 40px;
+i{color: brown;
+    font-size: 50px;
     position: absolute; 
-    top: 6.6%; right: 89%;
+    top:7.6%; right: 94%;
 }
 #Contact{
     color: dodgerblue;
@@ -24,27 +24,51 @@ background-repeat: no-repeat;
 
 }
 h1{
-    color: black;
-    font-size: 50px ;
+    color: brown;
+    font-size: 60px ;
     position: absolute;
-    left: 11%;
+    left: 7%;
     
 }
-h2{
+h2{color: brown;
     font-family: "Special Gothic Condensed One", sans-serif;
-    color: black;
    font-size: 50px;
     position: absolute;
-    bottom: 50%;
-    left: 40%;
+    bottom: 40%;
+    left: 38%;
 }
-p{
+p{color: brown;
+    font-family: "Special Gothic Condensed One", sans-serif;
     font-size: 30px;
-    color: black;
     position: absolute;
-    bottom: 45%;
+    bottom: 36%;
     left: 37%;
 }
-
+#Services{ color: brown;
+    font-family: "Special Gothic Condensed One", sans-serif;
+    border: solid 7px black;
+   background-color: gray;
+    margin: 100px auto ;
+    padding: 5px;
+    font-size: 35px;
+position: absolute;
+bottom: 16%;
+left: 42%;
+}
+#Otherservices{color: brown;
+    font-family: "Special Gothic Condensed One", sans-serif;
+position: absolute;
+top: 15%;
+right: 3%;
+font-size: 40px;
+}
+#Us
+{color: brown;
+    font-family: "Special Gothic Condensed One", sans-serif;
+position: absolute;
+top: 15%;
+right: 25%;
+font-size: 40px;
+}
 
 
