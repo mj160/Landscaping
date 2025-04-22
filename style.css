@@ -5,6 +5,9 @@
   }
   
 i{color: brown;
+    border: solid 7px black;
+    background-color: gray;
+     padding: 5px;
     font-size: 50px;
     position: absolute; 
     top:7.6%; right: 94%;
@@ -23,25 +26,33 @@ background-size: 100% ;
 background-repeat: no-repeat;
 
 }
-h1{
+h1{   border: solid 7px black;
+    background-color: gray;
+     padding: 5px;
     color: brown;
     font-size: 60px ;
     position: absolute;
     left: 7%;
     
 }
-h2{color: brown;
+h2{border: solid 7px black;
+    background-color: gray;
+     padding: 5px;
+    color: brown;
     font-family: "Special Gothic Condensed One", sans-serif;
    font-size: 50px;
     position: absolute;
     bottom: 40%;
     left: 38%;
 }
-p{color: brown;
+p{
+    border: solid 7px black;
+    background-color: gray;
+     padding: 5px;color: brown;
     font-family: "Special Gothic Condensed One", sans-serif;
     font-size: 30px;
     position: absolute;
-    bottom: 36%;
+    bottom: 33.5%;
     left: 37%;
 }
 #Services{ color: brown;
@@ -55,7 +66,10 @@ position: absolute;
 bottom: 16%;
 left: 42%;
 }
-#Otherservices{color: brown;
+#Otherservices{
+    border: solid 7px black;
+    background-color: gray;
+     padding: 5px;color: brown;
     font-family: "Special Gothic Condensed One", sans-serif;
 position: absolute;
 top: 15%;
@@ -63,7 +77,10 @@ right: 3%;
 font-size: 40px;
 }
 #Us
-{color: brown;
+{border: solid 7px black;
+    background-color: gray;
+     padding: 5px;
+    color: brown;
     font-family: "Special Gothic Condensed One", sans-serif;
 position: absolute;
 top: 15%;
